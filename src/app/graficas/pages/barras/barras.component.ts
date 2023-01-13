@@ -63,7 +63,7 @@ export class BarrasComponent {
       Math.round(Math.random() * 100),
 
       ];
-      this.barChartData.datasets[1].data = [ //SERIE A
+      this.barChartData.datasets[1].data = [ //SERIE B
       Math.round(Math.random() * 100),
       Math.round(Math.random() * 100),
       Math.round(Math.random() * 100),
@@ -73,7 +73,7 @@ export class BarrasComponent {
       Math.round(Math.random() * 100),
 
       ];
-      this.barChartData.datasets[2].data = [ //SERIE A
+      this.barChartData.datasets[2].data = [ //SERIE C
       Math.round(Math.random() * 100),
       Math.round(Math.random() * 100),
       Math.round(Math.random() * 100),
